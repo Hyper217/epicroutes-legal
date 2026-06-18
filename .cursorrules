@@ -1,0 +1,18 @@
+# Epic Routes — Firebase (Archive)
+
+Minimal archive repo containing legal pages for a Firebase-hosted Epic Routes workflow.
+
+## Contents
+
+- `privacy-policy.html` — privacy policy page
+- `terms-of-service.html` — terms of service page
+
+## Purpose
+
+Static HTML legal documents. Not an active application codebase. Preserve existing HTML structure and legal wording unless explicitly asked to update copy.
+
+## Coding preferences
+
+- Edit HTML only when requested; keep styles inline or as-is
+- Do not add build tooling, frameworks, or dependencies to this archive
+- Match existing formatting and section structure when making edits
